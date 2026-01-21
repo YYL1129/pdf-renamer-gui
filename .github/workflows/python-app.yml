@@ -27,6 +27,6 @@ jobs:
     - name: Import check (no GUI launch)
       run: |
         python - <<EOF
-        from src.pdf_renamer_gui import App
+        from src.pdf_renamer_gui
         print("Import OK")
         EOF
