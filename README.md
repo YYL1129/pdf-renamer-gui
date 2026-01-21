@@ -1,4 +1,4 @@
-cd ~/Documents/PDF_Rename
+
 cat > README.md << 'EOF'
 # PDF Renamer GUI (OCR)
 
