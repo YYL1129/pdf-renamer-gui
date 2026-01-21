@@ -1,5 +1,3 @@
-
-
 # PDF Renamer GUI (OCR)
 
 A local Python GUI tool to automatically rename PDF files based on extracted content.
@@ -17,7 +15,11 @@ A local Python GUI tool to automatically rename PDF files based on extracted con
 - macOS / Windows / Linux
 
 ## Installation
+
+Clone the repository and navigate into the project folder.
+
+Create and activate a virtual environment:
+
 ```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+python -m venv venv_pdf_renamer
+source venv_pdf_renamer/bin/activate
