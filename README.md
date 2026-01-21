@@ -1,5 +1,5 @@
 
-cat > README.md << 'EOF'
+
 # PDF Renamer GUI (OCR)
 
 A local Python GUI tool to automatically rename PDF files based on extracted content.
